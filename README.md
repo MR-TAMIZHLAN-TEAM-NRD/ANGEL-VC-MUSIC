@@ -31,7 +31,7 @@
 
  `/skip`    play next song    
 
- `/end`   stop music play    
+ `/end`   stop music play    .
 
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
